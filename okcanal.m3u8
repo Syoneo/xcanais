@@ -2138,6 +2138,54 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 #EXTINF:-1 group-title="Canais|Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png",Turma da Monica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+**************************************************************Animes*****************************************************
+
+#EXTINF:-1 tvg-id="" tvg-name="solo-leveling-1" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/01/Solo-Leveling.jpg",solo-leveling-EP01
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-dublado/01.mp4/index.m3u8&nocache1743982036
+#EXTINF:-1 tvg-id="" tvg-name="solo-leveling-1" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/01/Solo-Leveling.jpg",solo-leveling-EP02
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-dublado/02.mp4/index.m3u8&nocache1743982036
+#EXTINF:-1 tvg-id="" tvg-name="solo-leveling-1" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/01/Solo-Leveling.jpg",solo-leveling-EP03
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-dublado/03.mp4/index.m3u8&nocache1743982036
+#EXTINF:-1 tvg-id="" tvg-name="solo-leveling-1" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/01/Solo-Leveling.jpg",solo-leveling-EP04
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-dublado/04.mp4/index.m3u8&nocache1743982036
+#EXTINF:-1 tvg-id="" tvg-name="solo-leveling-1" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/01/Solo-Leveling.jpg",solo-leveling-EP05
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-dublado/05.mp4/index.m3u8&nocache1743982036
+#EXTINF:-1 tvg-id="" tvg-name="solo-leveling-1" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/01/Solo-Leveling.jpg",solo-leveling-EP06
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-dublado/06.mp4/index.m3u8&nocache1743982036
+#EXTINF:-1 tvg-id="" tvg-name="solo-leveling-1" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/01/Solo-Leveling.jpg",solo-leveling-EP07
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-dublado/07.mp4/index.m3u8&nocache1743982036
+#EXTINF:-1 tvg-id="" tvg-name="solo-leveling-1" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/01/Solo-Leveling.jpg",solo-leveling-EP08
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-dublado/08.mp4/index.m3u8&nocache1743982036
+#EXTINF:-1 tvg-id="" tvg-name="solo-leveling-1" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/01/Solo-Leveling.jpg",solo-leveling-EP09
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-dublado/09.mp4/index.m3u8&nocache1743982036
+#EXTINF:-1 tvg-id="" tvg-name="solo-leveling-1" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/01/Solo-Leveling.jpg",solo-leveling-EP10
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-dublado/10.mp4/index.m3u8&nocache1743982036
+#EXTINF:-1 tvg-id="" tvg-name="solo-leveling-1" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/01/Solo-Leveling.jpg",solo-leveling-EP11
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-dublado/11.mp4/index.m3u8&nocache1743982036
+#EXTINF:-1 tvg-id="" tvg-name="solo-leveling-1" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2024/01/Solo-Leveling.jpg",solo-leveling-EP12
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-dublado/12.mp4/index.m3u8&nocache1743982036
+
+#EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling Ep.01
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-2-dublado/01.mp4/index.m3u8&nocache1743981231
+#EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling Ep.02
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-2-dublado/02.mp4/index.m3u8&nocache1743981231
+#EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling Ep.03
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-2-dublado/03.mp4/index.m3u8&nocache1743981231
+#EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling Ep.04
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-2-dublado/04.mp4/index.m3u8&nocache1743981231
+#EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling Ep.05
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-2-dublado/05.mp4/index.m3u8&nocache1743981231
+#EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling Ep.06
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-2-dublado/06.mp4/index.m3u8&nocache1743981231
+#EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling Ep.07
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-2-dublado/07.mp4/index.m3u8&nocache1743981231
+#EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling Ep.08
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-2-dublado/08.mp4/index.m3u8&nocache1743981231
+#EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling Ep.09
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-2-dublado/09.mp4/index.m3u8&nocache1743981231
+#EXTINF:-1 tvg-id="" tvg-name="Solo Leveling 2" group-title="Anime" tvg-logo="https://animesdigital.org/wp-content/uploads/2025/01/assistir-solo-leveling-2-dublado-dublado-todos-os-episodios-online-animes-online.jpg",Solo Leveling Ep.10
+https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/solo-leveling-2-dublado/10.mp4/index.m3u8&nocache1743981231
+
 ***************************************************************TOKUSATSU*************************************
 
 #EXTINF:-1 group-title="TOKUSATSU" tvg-logo="https://i.ytimg.com/vi/D3lZAx3jI2E/maxresdefault.jpg",Changeman 1ª Temporada 01 Os defensores do planeta terra
